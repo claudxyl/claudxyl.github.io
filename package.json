@@ -14,16 +14,16 @@
     "homepage": "https://startbootstrap.com/template-overviews/grayscale",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale/issues",
-        "email": "feedback@startbootstrap.com"
+        "email": "claudxyl@hotmail.com"
     },
     "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "Yan-Long XIE",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Claude Xie"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-grayscale.git"
+        "url": "https://github.com/claudxyl/claudxyl.github.io"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.3.1",
